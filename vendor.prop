@@ -100,3 +100,6 @@ persist.dbg.wfc_avail_ovr=1
 
 # Shutdown time
 sys.vendor.shutdown.waittime=500
+
+# System Restart
+ro.build.shutdown_timeout=2
