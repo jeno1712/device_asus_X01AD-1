@@ -118,7 +118,7 @@ void vendor_load_properties()
     property_override("dalvik.vm.heaptargetutilization", heaptargetutilization);
     property_override("dalvik.vm.heapminfree", heapminfree);
     property_override("dalvik.vm.heapmaxfree", heapmaxfree);
-    property_override("ro.build.description", "redfin-user 12 SQ1A.220105.002 7961164 release-keys");
-    property_override("ro.build.fingerprint", "google/redfin/redfin:12/SQ1A.220105.002/7961164:user/release-keys");
-    property_override("ro.vendor.build.fingerprint", "google/redfin/redfin:12/SQ1A.220105.002/7961164:user/release-keys");
+    property_override("ro.build.description", "redfin-user 12 SQ1A.220205.002 8010174 release-keys");
+    property_override("ro.build.fingerprint", "google/redfin/redfin:12/SQ1A.220205.002/8010174:user/release-keys");
+    property_override("ro.vendor.build.fingerprint", "google/redfin/redfin:12/SQ1A.220205.002/8010174:user/release-keys");
 }
